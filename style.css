@@ -1,0 +1,12 @@
+body {
+    background-color: aqua;
+}
+h1 {
+    color: black;
+    text-align: center;
+}
+p {
+    font-family: cursive;
+    font-size: medium;
+    color: black;
+}
