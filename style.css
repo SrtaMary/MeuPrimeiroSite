@@ -1,5 +1,7 @@
 body {
     background-color: aqua;
+    font-family: cursive;
+    text-align: center;
 }
 h1 {
     color: black;
@@ -8,6 +10,6 @@ h1 {
 p {
     font-family: cursive;
     font-size: medium;
-    color: black;
+    color: black
 }
 
